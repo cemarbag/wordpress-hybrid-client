@@ -84,3 +84,11 @@ Once the IPA is signed, all you need to do is sending the package to Apple for r
 <http://stackoverflow.com/questions/39512823/duplicate-symbols-for-architecture-arm64-after-xcode-8-0-update>
 
 ![image](https://cloud.githubusercontent.com/assets/1388706/20237394/2d95e7de-a8d1-11e6-9e84-139808b559d2.png)
+
+#### iOS: Lexical or Preprocessor Issue ('Cordova/CDVViewController.h' file not found)
+
+http://stackoverflow.com/questions/40022185/missing-dependency-target-cordovalib-from-cordovalib-xcodeproj
+
+![image](http://ovo.li/uploads/4Ecunj)
+
+
